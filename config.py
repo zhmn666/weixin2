@@ -6,7 +6,7 @@ app_secret = "10202fa3a93f77fd697efc190ab6d1c8"
 # 模板消息id
 template_id = "I6vnvB5N75f1rCHdIRD-Re0SfK9W4kjgURE5-aRlr_g"
 # 这是openid
-user = [oFaxG6QX4Wl9TtCHUpprci6ZzFPk"]
+user = ["oFaxG6QX4Wl9TtCHUpprci6ZzFPk"]
 
 # 信息配置
 # 所在省份
