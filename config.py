@@ -1,12 +1,12 @@
 # 公众号配置
 # 公众号appId
-app_id = "wxfbc085e141ffffde"
+app_id = "wxc8fbd71e30c10202"
 # 公众号appSecret
-app_secret = "3d48dd651016b17a3910143f750e05d6"
+app_secret = "10202fa3a93f77fd697efc190ab6d1c8"
 # 模板消息id
-template_id = "eksgtD26Af80LlMpMf4lzXfW8Ey3VKOi1fGZKcYlRuI"
+template_id = "I6vnvB5N75f1rCHdIRD-Re0SfK9W4kjgURE5-aRlr_g"
 # 这是openid
-user = ["onjZG6LrWLvEA5MFG_DZQ4IEAtWw","onjZG6FRSqyBc3JRZSU62LTxWebQ"]
+user = [oFaxG6QX4Wl9TtCHUpprci6ZzFPk"]
 
 # 信息配置
 # 所在省份
